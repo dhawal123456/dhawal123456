@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dhawal123456
+- 👋 Hi, I’m Dhawal Patil
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
